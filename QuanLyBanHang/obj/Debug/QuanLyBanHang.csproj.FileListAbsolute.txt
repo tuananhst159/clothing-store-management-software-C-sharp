@@ -1,0 +1,55 @@
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimHDBan.resources
+D:\hoc\Phát triển ứng dụng trên windows\QuanLyBanHang\QuanLyBanHang\bin\Debug\Quanlybanhang_log.ldf
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\bin\Debug\Quanlybanhang_log.ldf
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimHDBan.resources
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\hoc\Phat trien ung dung tren windows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\bin\Debug\Quanlybanhang_log.ldf
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimHDBan.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\GitHub\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
