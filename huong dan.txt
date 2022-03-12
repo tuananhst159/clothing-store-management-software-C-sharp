@@ -1,0 +1,4 @@
+co so du lieu nam trong source code (/QuanLyBanHang/QuanLyBanHang/Quanlybanhang.mdf)
+tai khoan dang nhap
+admin
+123456
